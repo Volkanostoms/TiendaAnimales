@@ -1,0 +1,79 @@
+body{
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #f7f7f6;
+    font-family: "Homer Simpson UI";
+  }
+  
+  .cajaTienda{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  .cajaNav{
+    margin-top: 1%;
+    background-color: rgb(247, 250, 251);
+    margin-left: 0px;
+    border-radius: 15px;
+    border-color:  aquamarine;
+    border: cadetblue solid 2px ;
+    
+  }
+  
+  .carousel-inner > .item > img {
+      height: 50px;
+  }
+  
+  .cajaRestante{
+    width: 100%;
+    height: 80%;
+  } 
+  
+  .cajaVista{
+    margin-top: 0%;
+    margin-left: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-right: 10%;
+    text-rendering: auto;
+    width: 80%;
+    height: 80%;
+  
+  }
+  
+  .h1Tabla{
+    margin-top: 1%;
+    background-color: rgb(247, 250, 251);
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 15px;
+    border-color:  aquamarine;
+    border: cadetblue solid 2px ;
+  
+  }
+  
+  .thTabla{
+    margin-top: 1%;
+    background-color: rgb(247, 250, 251);
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 15px;
+    border-color:  aquamarine;
+    border: cadetblue solid 2px ;
+  
+  }
+  
+  .contenedorTablas{
+    background-color: antiquewhite;
+    padding: auto;
+  }
+  
+  footer{
+    text-align: center;
+  }
